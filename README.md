@@ -1,43 +1,56 @@
 # Hey, I'm Dre 
 
-Developer and data science student. I actually enjoy the part where things break — debugging teaches you more than when it just works.
+I’m a developer and Data Science Fellow at **The Knowledge House**, working in partnership with **Synchrony**. 
 
-I put in time outside of class too. If something isn't clicking, I build a project around it until it does. That's how I learn best.
-
-My goal is to be well-rounded — I want to be able to build the front end, work the back end, analyze the data, and understand what's happening at every layer. Right now I'm building toward that, one project at a time.
+I genuinely enjoy the part where things break. In my book, debugging a messy error or optimization bottleneck teaches you way more than code that works on the first try. I’m aiming to be completely full-cycle: I want to build the front end, architect the back end, wrangle production-scale data, and understand exactly what's happening at every layer of the stack. 
 
 ---
 
-## What I've been building
+## 🛠️ Tools & Stack
 
-- 💳 **Financial Fraud Detection** — Random Forest model on 2.7M transactions. F1 score of 0.9982. Only 9 misclassifications on 554K test rows.
-- 🎵 **Music Recommendation** — Unsupervised ML pipeline. Clustered 28K songs by lyrical content using KMeans + PCA into 8 distinct themes.
-- 🥗 **Vitality Bowls Demo** — Designed and built a full front-end demo from scratch using HTML/CSS. Handled the layout, design, and everything in between.
-- 🐟 **Fish Toxicity Model** — Linear regression predicting chemical toxicity (LC50) from molecular features. My first ML project end-to-end.
-
----
-
-## Tools I work with
-
-**Languages & Web**
-
+### Data & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Data & ML**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Currently learning:** JavaScript · React · back-end development
+### Languages & Web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+> **Currently leveling up on:** JavaScript · React · Back-End Architecture
 
 ---
 
-## What I'm looking for
+## 🚀 Featured Projects
 
-Open to internships, entry-level roles, and collaborations. Ideally something where I'm working with real data and can see what the work actually does.
+### 💳 Financial Fraud Detection | [Repo Link/Demo]
+*Developed a highly precise Random Forest model designed to flag anomalous financial transactions.*
+* **The Data:** Engineered and processed a dataset of **2.7M transactions** using Python and advanced data cleaning techniques.
+* **The Results:** Achieved an **F1 score of 0.9982**, reducing missed fraud to just 9 misclassifications out of 554K test rows.
+* **Key Takeaway:** Handled extreme class imbalance and optimized for ultra-low false negatives.
 
-📫 deandre.handley@yale.edu
+### 🎵 Lyrical Music Recommendation Pipeline | [Repo Link/Demo]
+*An unsupervised ML pipeline that groups music by its poetic and thematic content rather than just generic genre tags.*
+* **The Tech:** Combined KMeans clustering with PCA (Principal Component Analysis) for dimensionality reduction.
+* **The Results:** Successfully engineered NLP features and clustered 28K songs into 8 distinct, cohesive thematic profiles.
+
+### 🥗 Vitality Bowls Frontend Demo | [Repo Link/Demo]
+*A responsive, from-scratch front-end interface built to master semantic layout and UI/UX design.*
+* **The Tech:** Pure HTML5 and CSS3. No heavy frameworks—just clean, responsive layouts designed from the ground up to master the visual layer of application development.
+
+### 🐟 Molecular Fish Toxicity Predictor | [Repo Link/Demo]
+*My first end-to-end Machine Learning project.*
+* **The Tech:** Linear Regression model.
+* **The Goal:** Predicted chemical toxicity ($LC_{50}$) based on quantitative molecular features, transforming a raw chemistry dataset into a functional predictive tool.
+
+---
+
+## 🎯 What's Next?
+
+I’m looking for **internships, entry-level engineering/data roles, or open-source collaborations** where the data is messy, the problems are real, and the solutions actually impact users. 
+
+If you want to build something together, talk data pipelines, or look at some broken code, let's connect.
+
+📫 **Reach me at:** deandre.handley@yale.edu
