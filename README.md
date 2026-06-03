@@ -1,4 +1,4 @@
-# Hey, I'm Dre 👋
+# Hey, I'm Dre 
 
 Developer and data science student. I actually enjoy the part where things break — debugging teaches you more than when it just works.
 
