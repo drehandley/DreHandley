@@ -1,27 +1,32 @@
-# Hey, I'm Dre 👋
+# Hey, I'm Dre 
 
-I’m an IT professional and Data Science Fellow at **The Knowledge House**, working in partnership with **Synchrony**. 
+I am a **CompTIA A+-certified IT Support Professional and Business Owner** with 9+ years of experience keeping high-volume systems alive. From troubleshooting hardware and networks for 1,000+ daily users at organizations like **Yale University**, **USPS**, and **LAZ**, to running my own freelance tech company, **Tech by DeAndre**, I thrive when things break.
 
-Coming from an IT background, I’m naturally wired to look at technology through a troubleshooting lens. I genuinely enjoy the part where things break—in IT and data science, digging into a cryptic error log or optimization bottleneck teaches you way more than code that works flawlessly on the first try. 
+Currently, I am expanding my enterprise toolkit as a **Data Science Fellow at The Knowledge House x Synchrony**. I am bridging my deep infrastructure background with **Python, SQL, and Automation** to build smarter systems, analyze large-scale data pipelines, and scale my technical problem-solving. 
 
-My primary focus is data science, SQL, and Python. However, software development is my favorite hobby. Outside of my IT work and fellowship, I love building front-end projects from scratch and experimenting with JavaScript/React just to understand how applications work from the infrastructure all the way to the UI.
+Development remains my favorite high-level hobby, allowing me to build front-end layouts and experiment with JavaScript/React to understand applications from the network layer up to the UI.
 
 ---
 
-## 🛠️ Tools & Stack
+## 🛠️ Tools & Enterprise Stack
 
-### Data Science & IT Infrastructure
+### 💻 IT Infrastructure & Systems
+* **Certifications:** CompTIA A+ Certified
+* **Systems & Networking:** Hardware Deployment, Network Connectivity, POS Systems, Security Assessments, System Diagnostics
+* **Environments:** Enterprise Infrastructure, High-Volume Daily User Environments, Freelance/Small Business Consultations
+
+### 🐍 Data Science, Analytics & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### Hobbyist Dev Stack
+### 🎨 Frontend Hobbyist Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-> **Currently learning for fun:** JavaScript · React · Back-End Architecture
+> **Currently breaking/building for fun:** JavaScript · React · Bash Scripting & Automation
 
 ---
 
@@ -31,7 +36,7 @@ My primary focus is data science, SQL, and Python. However, software development
 *Developed a highly precise Random Forest model designed to flag anomalous financial transactions.*
 * **The Data:** Engineered and processed a dataset of **2.7M transactions** using Python and advanced data cleaning techniques.
 * **The Results:** Achieved an **F1 score of 0.9982**, reducing missed fraud to just 9 misclassifications out of 554K test rows.
-* **Key Takeaway:** Handled extreme class imbalance and optimized for ultra-low false negatives.
+* **The Context:** Bridged my infrastructure background with data modeling to tackle extreme class imbalance and optimize for ultra-low false negatives.
 
 ### 🎵 Lyrical Music Recommendation Pipeline | [Repo Link]
 *An unsupervised ML pipeline that groups music by its poetic and thematic content rather than just generic genre tags.*
@@ -49,8 +54,11 @@ My primary focus is data science, SQL, and Python. However, software development
 
 ---
 
-## 🎯 Connect With Me
+## 🎯 Let's Connect
 
-I'm always looking to connect with other data professionals, IT folks, or developers. Whether you want to talk data pipelines, system infrastructure, or look at some broken code, let's connect!
+I'm looking for opportunities in **Data Analysis, IT Support, Technical Support Engineering, and Systems Administration** where I can combine a decade of hands-on infrastructure reliability with modern data pipelines and automation. 
 
-📫 **Reach me at:** deandre.handley@yale.edu
+Whether you're looking to hire, want to collaborate on a data project, or just want to connect with other people in tech to trade insights and grow your network—let's link up.
+
+* 🌐 **Business:** Tech by DeAndre
+* 📫 **Email:** deandre.handley@yale.edu
