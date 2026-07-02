@@ -96,7 +96,7 @@ Linear regression predicting chemical toxicity to fish (LC50) from molecular fea
 
 **[Vitality Bowls](https://github.com/drehandley/vitality-bowls)**
 
-<br /><br />
+<img src="https://raw.githubusercontent.com/drehandley/vitality-bowls/main/vitality%20bowls.png" width="100%" />
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
