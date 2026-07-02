@@ -6,11 +6,12 @@
 
 <div align="center">
 
-Data Scientist building things that work. &nbsp;·&nbsp; The Knowledge House Fellow &nbsp;·&nbsp; Group Lead
+Data Scientist building things that work. &nbsp;·&nbsp; The Knowledge House Fellow
 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deandrehandley)
+[![Email](https://img.shields.io/badge/-deandre.handley@yale.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deandre.handley@yale.edu)
 
 </div>
 
