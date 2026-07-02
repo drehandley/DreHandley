@@ -40,7 +40,7 @@ CNN classifying 70 dog breeds from photos using transfer learning on ResNet50. *
 
 **[Financial Fraud Detection](https://github.com/drehandley/financial-fraud-detection)**
 
-<br /><br />
+<img src="https://raw.githubusercontent.com/drehandley/drehandley/main/fraud_feature_importance.png" width="100%" />
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,7 +57,7 @@ Random Forest classifier on **2.7M payment transactions**. F1 score of **0.9982*
 
 **[Music Recommendation](https://github.com/drehandley/music-recommendation)**
 
-<br /><br />
+<img src="https://raw.githubusercontent.com/drehandley/drehandley/main/music_clusters.png" width="100%" />
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ Unsupervised ML pipeline clustering **28K songs** by lyrical content using KMean
 
 **[Fish Toxicity Model](https://github.com/drehandley/fishtoxicitymodel)**
 
-<br /><br />
+<img src="https://raw.githubusercontent.com/drehandley/drehandley/main/fish_actual_vs_predicted.png" width="100%" />
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
